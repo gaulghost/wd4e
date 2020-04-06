@@ -87,9 +87,12 @@ main aside img{
 	background-color: rgba(193, 222, 114, 1);
 	margin-top: 1%;
 	/*clear:both;*/
+	padding: 1%;
 }
 
-main section p{}
+main section p{
+	margin-bottom: 1%;
+}
 main h2{
 	font-size: 28px;
 	line-height: 48px;
