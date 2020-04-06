@@ -74,6 +74,7 @@ main{
 	margin: 1%;
 	background-color: rgba(94, 160, 109, 1);
 }
+
 main aside img{
 	width: 90%;
 	border: .3em black solid;
@@ -96,6 +97,7 @@ main aside img{
 main section p{
 	margin-bottom: 1%;
 }
+
 main h2{
 	font-size: 28px;
 	line-height: 48px;
