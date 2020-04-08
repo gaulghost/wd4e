@@ -11,6 +11,7 @@
 body{
 	height: 100vh;
 	width: 100vw;
+	overflow: auto;
 }
 
 header{
@@ -34,7 +35,7 @@ header h1{
 
 nav {
 	width: 90%;
-	margin: 2% auto;
+	margin: 1% auto;
 }
 
 nav a{
@@ -77,11 +78,9 @@ main{
 
 main aside img{
 	width: 90%;
-	border: .3em black solid;
-	float: left;
-	clear :both;
-	margin: 5% 5% 0% 5%;
-	/* margin: 5% auto; */
+	border: .2em black solid;
+	display: block;
+	margin: 5% auto;
 }
 
 .right{
@@ -97,7 +96,6 @@ main aside img{
 main section p{
 	margin-bottom: 1%;
 }
-
 main h2{
 	font-size: 28px;
 	line-height: 48px;
