@@ -85,8 +85,8 @@ main aside img{
 
 .right{
 	display:inline-block;
-	width:60%;
-	margin-right: 10%;
+	width:70%;
+	/*margin-right: 10%;*/
 	background-color: rgba(193, 222, 114, 1);
 	margin-top: 1%;
 	/*clear:both;*/
