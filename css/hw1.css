@@ -119,8 +119,8 @@ section table{
 	background-color: rgba(255, 255, 255, 1);
 	border: 1px white solid;
 	border-radius: 5px;
-/* 	width: 80%; */
-	/* overflow: hidden; */
+	width: auto;
+	overflow: auto;
 }
 
 section table th{
